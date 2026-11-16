@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-visne-tv.png" group-title="Ulusal",Vişne TV
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-0?kanal=0
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-kadife-haber.png" group-title="Haber",Kadife Haber
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-1?kanal=1
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-lale-belgesel.png" group-title="Belgesel",Lale Belgesel
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-0?kanal=2
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-ritim-muzik.png" group-title="Müzik",Ritim Müzik
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-1?kanal=3
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-ada-spor.png" group-title="Spor",Ada Spor
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-0?kanal=4
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-minik-cocuk.png" group-title="Çocuk",Minik Çocuk
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-1?kanal=5
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-mavi-ekran.png" group-title="Ulusal",Mavi Ekran
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-0?kanal=6
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-gece-sinemasi.png" group-title="Sinema",Gece Sineması
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-1?kanal=7
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-bilim-kanali.png" group-title="Belgesel",Bilim Kanalı
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-0?kanal=8
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/ch-kahve-haber.png" group-title="Haber",Kahve Haber
+https://yusufmutlutr-glitch.github.io/visneiptv/live/yayin-1?kanal=9
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-sessiz-liman.png" group-title="Dram",Sessiz Liman (2025)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=sessiz-liman
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-son-tren.png" group-title="Gerilim",Son Tren (2024)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=son-tren
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-kirmizi-semsiye.png" group-title="Romantik",Kırmızı Şemsiye (2025)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=kirmizi-semsiye
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-gece-yarisi-kahvesi.png" group-title="Komedi",Gece Yarısı Kahvesi (2023)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=gece-yarisi-kahvesi
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-ruzgarin-sesi.png" group-title="Macera",Rüzgârın Sesi (2025)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=ruzgarin-sesi
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-kayip-harita.png" group-title="Macera",Kayıp Harita (2024)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=kayip-harita
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-cam-kule.png" group-title="Bilim Kurgu",Cam Kule (2025)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=cam-kule
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-yaz-sonu.png" group-title="Dram",Yaz Sonu (2023)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=yaz-sonu
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-mor-daglar.png" group-title="Belgesel",Mor Dağlar (2024)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=mor-daglar
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/mv-ucuncu-perde.png" group-title="Gerilim",Üçüncü Perde (2025)
+https://yusufmutlutr-glitch.github.io/visneiptv/movie/ornek-film.avi?film=ucuncu-perde
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/sr-bodrum-gunleri.png" group-title="Yerli Diziler",Bodrum Günleri
+https://yusufmutlutr-glitch.github.io/visneiptv/series/ornek-bolum.avi?dizi=bodrum-gunleri
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/sr-yedi-tepe.png" group-title="Yerli Diziler",Yedi Tepe
+https://yusufmutlutr-glitch.github.io/visneiptv/series/ornek-bolum.avi?dizi=yedi-tepe
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/sr-kar-masali.png" group-title="Yerli Diziler",Kar Masalı
+https://yusufmutlutr-glitch.github.io/visneiptv/series/ornek-bolum.avi?dizi=kar-masali
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/sr-eski-konak.png" group-title="Yerli Diziler",Eski Konak
+https://yusufmutlutr-glitch.github.io/visneiptv/series/ornek-bolum.avi?dizi=eski-konak
+#EXTINF:-1 tvg-logo="https://yusufmutlutr-glitch.github.io/visneiptv/img/sr-mahalle.png" group-title="Yerli Diziler",Mahalle
+https://yusufmutlutr-glitch.github.io/visneiptv/series/ornek-bolum.avi?dizi=mahalle

@@ -1,0 +1,11 @@
+1
+00:00:02,000 --> 00:00:06,000
+Bu, dosyadan eklenen örnek bir altyazıdır.
+
+2
+00:00:07,000 --> 00:00:12,000
+Türkçe harf kontrolü: ç ğ ı İ ö ş ü
+
+3
+00:00:13,000 --> 00:00:40,000
+VisneIPTV altyazı testi
